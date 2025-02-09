@@ -1,7 +1,9 @@
-## Hi there 👋
 I am just a normal student from czechia, and I have interest in programming (As you can probably tell :D)
+
 Other that that, I like to play Guitar and take photos, don't hesitate to reach out to me! ^^
+
 The project that I am most proud of is discord bot that launches and manages minecraft servers
+
 If you want to contact me on discord, my name is also rabinowfajn3x
 
 <!--
